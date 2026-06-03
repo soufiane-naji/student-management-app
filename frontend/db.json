@@ -1,0 +1,35 @@
+{
+  "students": [
+    {
+      "name": "Sara",
+      "age": 12,
+      "filiere": "dev",
+      "id": "JjJEeB8tkD0"
+    },
+    {
+      "name": "zakarya",
+      "age": 23,
+      "filiere": "FM",
+      "id": "-7sNw8tQpOY"
+    },
+    {
+      "name": "faridi ahmade",
+      "age": 25,
+      "filiere": "ID",
+      "id": "tQN5iMieGKM"
+    },
+    {
+      "name": "morad",
+      "age": 22,
+      "filiere": "dev",
+      "id": "HiA3voE0rVM"
+    },
+    {
+      "name": "sa3id",
+      "age": 22,
+      "filiere": "GI",
+      "id": "p2nAvdpxu9E"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
