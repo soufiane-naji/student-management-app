@@ -9,7 +9,7 @@ A simple application to manage students using CRUD operations.
 - View list of students
 
 ## 🛠️ Technologies
-- React / Node.js / Express (حسب مشروعك)
+- React / Node.js / Express
 - Axios
 - REST API
 
